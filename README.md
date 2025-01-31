@@ -1,7 +1,7 @@
 # Projeto DESAFIO CAIXA
 <p align="center">
 <img 
-    src="./assets/podcast.jpeg"
+    src="./capa2.png"
     width="300"
 />
 </p>
@@ -20,30 +20,29 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um curso na [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast sobre educação finaceira utilizando ferramentas de IA através de prompts mais trabalhados, para escutar o podcast:
+Projeto com o objetivo de gerar um podcast sobre educação finaceira utilizando ferramentas de IA através de prompts mais trabalhados
+Para visualizar o podcast:
 
-<a href="https://github.com/nadia-noda/prompts-for-podcast-generate-by-ia/raw/refs/heads/main/output/podcast.sonho.mp3" title="Listen to podcast now">📻 Clique aqui para ouvir</a>
+<a href="https://github.com/nadia-noda/desafiocaixa/raw/refs/heads/main/desafiored.mp4" title="View podcast now">📻 Clique aqui para assistir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Song Generator](https://songgenerator.io)
-- [D-ID](https://studio.d-id.com/))
+- [D-ID](https://studio.d-id.com/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via chatgpt, e letra da música gerada
 - Audio e video gerado pela D-ID
-- Son Generator para gerar a música
+- Song Generator para gerar a música de fundo
 - Capcut para tratar vídeo e adicionar sons de fundo
 
-## 📚 Materiais
+## 💡Ideia
 
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+-    Utilização de mídias para lançamentos de vídeos curtos que tragam informações, ideias, e casos para incentivar a educação financeira.
+-    Além disso é uma ótima maneira de mostrar que hoje além a empresa está mais digital e disposta a "ir" até seus clientes com novas aplicações, ainda somos a empresa parceira disposta a atender toda a população.
 
 
-## 🛠️ Execução
 
-Prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar o podcast de maneira automatizada.
