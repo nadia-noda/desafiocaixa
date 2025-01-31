@@ -20,7 +20,8 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um curso na [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast sobre educação finaceira utilizando ferramentas de IA através de prompts mais trabalhados
+Projeto com o objetivo de gerar um podcast sobre educação finaceira utilizando ferramentas de IA através de prompts mais trabalhados.
+
 Para visualizar o podcast:
 
 <a href="https://github.com/nadia-noda/desafiocaixa/raw/refs/heads/main/desafiored.mp4" title="View podcast now">📻 Clique aqui para assistir</a>
@@ -30,11 +31,11 @@ Para visualizar o podcast:
 - [ChatGPT](https://chat.openai.com/) 
 - [Song Generator](https://songgenerator.io)
 - [D-ID](https://studio.d-id.com/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [CapCut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt, e letra da música gerada
+- Roteiro e letra de música do fundo gerado via chatgpt
 - Audio e video gerado pela D-ID
 - Song Generator para gerar a música de fundo
 - Capcut para tratar vídeo e adicionar sons de fundo
