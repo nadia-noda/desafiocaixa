@@ -43,7 +43,7 @@ Para visualizar o podcast:
 ## 💡Ideia
 
 -    Utilização de mídias para lançamentos de vídeos curtos que tragam informações, ideias, e casos para incentivar a educação financeira.
--    Além disso é uma ótima maneira de mostrar que hoje além a empresa está mais digital e disposta a "ir" até seus clientes com novas aplicações, ainda somos a empresa parceira disposta a atender toda a população.
+-    Além disso, é uma ótima maneira de mostrar que hoje a empresa está mais digital e disposta a "ir" até seus clientes digitalmente com novas aplicações e ainda somos o banco parceiro disposto a atender toda a população, com soluções financeiras acessíveis, ágeis e seguras, para que todos possam realizar seus sonhos e alcançar seus objetivos, independentemente de onde estejam.
 
 
 
